@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeorefice
-- 👀 I’m interested in data analysis, motorcycling, weightlifting
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Python, PostgreSQL
 - 😄 Pronouns: he/him
 
